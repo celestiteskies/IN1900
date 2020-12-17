@@ -12,3 +12,8 @@ x1 = (-b-cmath.sqrt(d))/(2*a)
 x2 = (-b+cmath.sqrt(d))/(2*a)
 
 print (f"The solutions are {x1.real:.2f}, {x2.real:.2f}.")
+
+"""
+printed:
+The solutions are 0.33, 0.50.
+"""
