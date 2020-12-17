@@ -1,3 +1,5 @@
+# Problem 2.3. Population growth
+
 from math import exp
 
 B = 50000    #carrying capacity
