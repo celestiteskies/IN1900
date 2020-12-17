@@ -22,4 +22,6 @@ pop = population(t)
 
 print (f"C is: {C}. The number of bacteria in the colony after 24 hours is: {pop}.")
 
-"""C is: 9.0. The number of bacteria in the colony after 24 hours is: 5974.731585569669."""
+"""
+C is: 9.0. The number of bacteria in the colony after 24 hours is: 5974.731585569669.
+"""
